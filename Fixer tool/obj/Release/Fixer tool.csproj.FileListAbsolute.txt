@@ -1,0 +1,45 @@
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Fixer tool.exe.config
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Fixer tool.exe
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Fixer tool.pdb
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Buffers.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Memory.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Numerics.Vectors.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer tool.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer_tool.Form1.resources
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer_tool.Properties.Resources.resources
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer tool.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer tool.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer tool.csproj.Up2Date
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer tool.exe
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Release\Fixer tool.pdb
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Costura.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Guna.UI2.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Buffers.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Memory.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Numerics.Vectors.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Costura.pdb
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Release\Costura.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\Fixer tool.exe.config
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\Fixer tool.exe
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\Fixer tool.pdb
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\Newtonsoft.Json.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\System.Buffers.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\System.Memory.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\System.Numerics.Vectors.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer_tool.Form1.resources
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer_tool.Properties.Resources.resources
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.csproj.Fody.CopyLocal.cache
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.csproj.Up2Date
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.exe
+C:\Users\domin\Desktop\newprojects\gifteds main support tool\Fixer tool\obj\Release\Fixer tool.pdb

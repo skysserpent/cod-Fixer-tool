@@ -1,0 +1,18 @@
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\Fixer tool.exe.config
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\Fixer tool.exe
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\Fixer tool.pdb
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\System.Buffers.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\System.Memory.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer_tool.Form1.resources
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer_tool.Properties.Resources.resources
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.csproj.Fody.CopyLocal.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.csproj.Up2Date
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.exe
+C:\Users\domin\Desktop\newprojects\Fixer tool\Fixer tool\obj\Debug\Fixer tool.pdb
